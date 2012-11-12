@@ -1,40 +1,39 @@
 === Paypal Shortcodes ===
 Contributors: swergroup, pixline
 Donate link: http://pixline.net/wordpress-plugins/
-Tags: paypal, shortcode, integration
-Requires at least: 2.5
+Tags: paypal, shortcode, integration, paypal buttons, cart, e-commerce, ecommerce, shopping cart, 
+Requires at least: 3.4.2
 Tested up to: 3.4.2
 Stable tag: trunk
 
-This plugin allow to insert Paypal buttons in your posts or pages, with a shortcode like [paypal type="add|view"].
+This plugin allow to insert Paypal buttons in your posts or pages with a shortcode like [paypal type="add|view"].
 
 == Description ==
 
 This plugin allow to insert Paypal buttons in your posts or pages, just using a shortcode.
-This plugin don't have a management panel at this time, you'll need to edit paypal-shortcodes.php and follow the comments.
+You can define your email and currency in the Settings › Writing admin panel.
 
-Currently supported:
-* Add to cart
-* View cart
+= [paypal type="add" name="Item Name vol. 1" amount="12.99"] =
 
-= Usage =
+This shortcode will print the "Add to cart" button: it will add "Item Name vol. 1" (priced 12.99[currency]) in your paypal cart. 
 
-[paypal type="add" name="Item Name vol. 1" amount="12.99"]
+= [paypal type="view"] =
 
-This shortcode will print the "Add to cart" image, which will add "Item Name vol. 1" (priced 12.99) to your paypal cart. 
-
-[paypal type="view"]
-
-This shortcode will print the "View cart" image.
+This shortcode will print the "View cart" button.
 
 
 == Changelog ==
 
-* 0.1		(16/05/2008) first release
+= 0.3 =
 
-= Credits = 
+(12/11/2012) new mantainer, rewrite.
 
-This plugin is GPL&copy; 2008 Paolo Tresso / [Pixline](http://pixline.net/)
+= 0.1 =	
+
+(16/05/2008) first release
+
+This plugin is GPL&copy; 2008 Paolo Tresso / [SWER Siti internet Torino](http://swergroup.com/sviluppo/siti-internet-torino/)
+
 
 == Installation ==
 
