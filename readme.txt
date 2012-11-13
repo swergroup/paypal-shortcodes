@@ -1,6 +1,6 @@
 === Paypal Shortcodes ===
 Contributors: swergroup, pixline
-Donate link: http://pixline.net/wordpress-plugins/
+Donate link: http://swergroup.com/sviluppo/siti-internet-torino/
 Tags: paypal, shortcode, integration, paypal buttons, cart, e-commerce, ecommerce, shopping cart, 
 Requires at least: 3.4.2
 Tested up to: 3.4.2
@@ -32,7 +32,7 @@ This shortcode will print the "View cart" button.
 
 (16/05/2008) first release
 
-This plugin is GPL&copy; 2008 Paolo Tresso / [SWER Siti internet Torino](http://swergroup.com/sviluppo/siti-internet-torino/)
+This plugin is GPL&copy; 2008 [SWER Siti internet Torino](http://swergroup.com/sviluppo/siti-internet-torino/)
 
 
 == Installation ==
