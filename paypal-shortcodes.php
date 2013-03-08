@@ -4,7 +4,7 @@ Plugin Name: Paypal Shortcode
 Plugin URI: http://wordpress.org/extend/plugins/paypal-shortcodes/
 Description:  
 Author: SWERgroup
-Version: 0.3
+Version: 0.4
 Author URI: http://swergroup.com/
 
 Copyright (C) 2007+ Paolo Tresso / SWERgroup (http://swergroup.com/)
