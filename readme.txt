@@ -10,6 +10,8 @@ This plugin allow to insert Paypal buttons in your posts or pages with a shortco
 
 == Description ==
 
+[![Build Status](https://travis-ci.org/swergroup/paypal-shortcodes.png?branch=master)](https://travis-ci.org/swergroup/paypal-shortcodes)
+
 This plugin allow to insert Paypal buttons in your posts or pages, just using a shortcode.
 You can define your email and currency in the Settings › Writing admin panel.
 
